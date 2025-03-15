@@ -4,7 +4,7 @@ A fun Snake game that you can control using hand gestures! The game uses your ca
 
 ## Installation
 
-1. Make sure you have Python 3.8 or higher installed
+1. Make sure you have Python 3.8 or higher installed(lower than 3.13)
 2. Install the required packages:
 ```bash
 pip install -r requirements.txt
