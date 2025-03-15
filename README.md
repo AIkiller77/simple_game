@@ -19,9 +19,9 @@ python snake_game.py
 
 2. Use your hand gestures to control the snake:
 - 1 finger up: Move Up
-- 2 fingers up: Move Right
-- 3 fingers up: Move Down
-- 4 fingers up: Move Left
+- 2 fingers at right: Move Right
+- 3 fingers down: Move Down
+- 4 fingers at left: Move Left
 - No hand detected: Continue in current direction
 
 3. Try to eat the food (red squares) to grow longer
