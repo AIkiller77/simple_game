@@ -1,6 +1,6 @@
 # Gesture Controlled Snake Game 🐍
 
-A fun Snake game that you can control using hand gestures! The game uses your webcam to detect hand gestures and control the snake's movement.
+A fun Snake game that you can control using hand gestures! The game uses your camera to detect hand gestures and control the snake's movement.
 
 ## Installation
 
